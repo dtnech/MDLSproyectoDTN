@@ -2,54 +2,53 @@
 
 ## Nombre del Proyecto
 
-[Nombre del proyecto aquí]
+Estimación del fraude en transacciones con tarjeta de crédito
 
 ## Objetivo del Proyecto
 
-[Descripción breve del objetivo del proyecto y por qué es importante]
+Ajustar un modelo de aprendizaje profundo que permita estimar si una transacción con tarjeta de crédito es fraudulenta o no para una entidad financiera.
 
 ## Alcance del Proyecto
 
 ### Incluye:
 
-- [Descripción de los datos disponibles]
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+- El dataset esta compuesto por 31 columnas con 284.806 registros de tipo númerico.
+- Se espera obtener resultados con evidencia estadistica de alto impacto que permita tomar decisiones para contrrestar las transacciones fraudulentas con tarjeta de crédito.
+- Aplicación de la metodología CRISP-DM garantizando el proceso adecuado de un proyecto de ciencia de datos.
 
 ### Excluye:
 
-- [Descripción de lo que no está incluido en el proyecto]
+- Desplegar el modelo ajustado en el contexto real de una empresa.
+- Recolectar más información enfocada en una ciudad especifica. 
 
 ## Metodología
 
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+Utilizar tensorflow y keras para ajustar un modelo de aprendizaje profundo que permita estimar si una transacción con tarjeta de crédito es fraudulenta o no para una entidad financiera.
 
 ## Cronograma
 
 | Etapa | Duración Estimada | Fechas |
 |------|---------|-------|
 | Entendimiento del negocio y carga de datos | 2 semanas | del 1 de mayo al 15 de mayo |
-| Preprocesamiento, análisis exploratorio | 4 semanas | del 16 de mayo al 15 de junio |
-| Modelamiento y extracción de características | 4 semanas | del 16 de junio al 15 de julio |
-| Despliegue | 2 semanas | del 16 de julio al 31 de julio |
-| Evaluación y entrega final | 3 semanas | del 1 de agosto al 21 de agosto |
-
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
+| Preprocesamiento, análisis exploratorio | 2 semanas | del 16 de mayo al 30 de mayo |
+| Modelamiento y extracción de características | 1 semanas | del 01 de junio al 08 de junio |
+| Despliegue | 1 semanas | del 08 de julio al 15 de julio |
+| Evaluación y entrega final | 1 semanas | del 16 de julio al 21 de agosto |
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
+- Daniel Trillos Navarro
+  Estudiante del programa de formación en Machine learning and data sciencie
 
 ## Presupuesto
 
-[Descripción del presupuesto asignado al proyecto]
+Este proyecto no requiere presupuesto ya que responde es a actividades de tipo educativo.
 
 ## Stakeholders
 
-- [Nombre y cargo de los stakeholders del proyecto]
-- [Descripción de la relación con los stakeholders]
-- [Expectativas de los stakeholders]
+- Directores fincieros de las entidades bancarias y usuarios de tarjetas de crédito.
+- No se tiene relación con los stakeholders del proyecto
+- Los stakeholders esperan que se produzca ua buena estimación que permita la toma de decisiones.
 
 ## Aprobaciones
 
