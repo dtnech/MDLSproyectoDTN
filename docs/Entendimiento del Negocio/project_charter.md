@@ -33,7 +33,7 @@ Utilizar tensorflow y keras para ajustar un modelo de aprendizaje profundo que p
 | Preprocesamiento, análisis exploratorio | 2 semanas | del 16 de mayo al 30 de mayo |
 | Modelamiento y extracción de características | 1 semanas | del 01 de junio al 08 de junio |
 | Despliegue | 1 semanas | del 08 de julio al 15 de julio |
-| Evaluación y entrega final | 1 semanas | del 16 de julio al 21 de agosto |
+| Evaluación y entrega final | 2 semanas | del 16 de julio al 27 de julio |
 
 ## Equipo del Proyecto
 
