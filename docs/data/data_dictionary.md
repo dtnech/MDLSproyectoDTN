@@ -37,8 +37,8 @@
 | V26 | Variable que contiene indicador de la transacción | float64 | Valores menos, iguales o mayores que cero | kaggle |
 | V27 | Variable que contiene indicador de la transacción | float64 | Valores menos, iguales o mayores que cero | kaggle |
 | V28 | Variable que contiene indicador de la transacción | float64 | Valores menos, iguales o mayores que cero | kaggle |
-| Amount | Variable que contiene indicador de la transacción | float64 | Valores menos, iguales o mayores que cero | kaggle |
-| Class | Variable que contiene indicador de la transacción | int64 | Valores menos, iguales o mayores que cero | kaggle |
+| Amount | Variable que contiene indicador de la transacción | float64 | Valores mayores que cero | kaggle |
+| Class | Variable que contiene indicador de la transacción | int64 | Valores mayores que cero | kaggle |
 | Time | Variable que contiene indicador de la transacción | float64 | Valores menos, iguales o mayores que cero | kaggle |
 
 - **Variable**: nombre de la variable.
