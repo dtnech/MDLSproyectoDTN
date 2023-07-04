@@ -68,7 +68,15 @@ Tabla que muestra los resultados de evaluación del modelo de regresión logíst
 
 ## Análisis de los resultados
 
+
+
+![imagen](https://github.com/dtnech/MDLSproyectoDTN/assets/65313279/dffa353f-2ac9-4594-a5fe-f42274ec6e44)
+
 Descripción de los resultados del modelo de regresión logística, incluyendo fortalezas y debilidades del modelo.
+
+ | Modelo | accuracy score | Precision | Recall | f1_score |
+ | --- | --- | --- | --- | --- |
+ | ANN 	|  0.99789 |  0.995797 | 1.0 | 0.997894
 
 ## Conclusiones
 
