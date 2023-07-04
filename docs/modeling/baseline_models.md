@@ -68,22 +68,31 @@ Tabla que muestra los resultados de evaluación del modelo de regresión logíst
 
 ## Análisis de los resultados
 
-
+Se presenta la matriz de confusión para mostrar resultados de las metricas
 
 ![imagen](https://github.com/dtnech/MDLSproyectoDTN/assets/65313279/dffa353f-2ac9-4594-a5fe-f42274ec6e44)
 
-Descripción de los resultados del modelo de regresión logística, incluyendo fortalezas y debilidades del modelo.
+Descripción de los resultados del modelo de regresión logística.
+Los resultados de las metricas evidencian que los test arrojan buenas salidas que conllevan a concluir favorablemente hacia la elección del modelo.
 
  | Modelo | accuracy score | Precision | Recall | f1_score |
  | --- | --- | --- | --- | --- |
  | ANN 	|  0.99789 |  0.995797 | 1.0 | 0.997894
 
+La ventaja de este modelo es que produjo buenas metricas de evaluación y ajuste.
+Es un modelo que no consume muchos recursos y por tanto es facil de estimar.
+La desventaja es que no permite ajustar modelos lineales.
+
 ## Conclusiones
 
-Conclusiones generales sobre el rendimiento del modelo de regresión logística y posibles áreas de mejora.
+El modelo de regresión logistica produce resultados muy buenos ya que el accuracy score fue:0.9978897017445132, sin embargo tambien se ajusto un modelo que permita comparar los resulados.
 
 ## Referencias
 
-Lista de referencias utilizadas para construir el modelo de regresión logística y evaluar su rendimiento.
+https://www.iartificial.net/como-usar-regresion-logistica-en-python/
 
-Espero que te sea útil esta plantilla. Recuerda que puedes adaptarla a las necesidades específicas de tu proyecto.
+https://www.cienciadedatos.net/documentos/py17-regresion-logistica-python
+
+https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/
+
+www.kaggle.com/
