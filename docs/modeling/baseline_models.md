@@ -85,7 +85,7 @@ La desventaja es que no permite ajustar modelos lineales.
 
 ## Conclusiones
 
-El modelo de regresión logistica produce resultados muy buenos ya que el accuracy score fue:0.9978897017445132, sin embargo tambien se ajusto un modelo que permita comparar los resulados.
+El modelo de regresión logistica produce resultados muy buenos ya que el accuracy score fue: 0.9978897017445132. Para validar el los resultados en general tambien se ajustaron otros modelos.
 
 ## Referencias
 
