@@ -48,4 +48,4 @@ Como se menciono en el punto anterior, con la matriz de correlaciones se puede e
 
 La variable objetivo class es categórica y puede ser explicada por las demás variables, se procederá a ajustar un modelo de regresión logística y se utilizaran técnicas de machine learning usando las herramientas de TensorFlow.
 
-La matriz de correlación y el diagrama de dispersión se presentó en literales anteriores y por tal razón no se presentan de nuevo.
+La matriz de correlación y el diagrama de dispersión se presentarón en literales anteriores y por tal razón no se presentan de nuevo.
