@@ -30,6 +30,7 @@ A continuación se presenta el boxplot que permite analizar el comportamiento es
 ![imagen](https://github.com/dtnech/MDLSproyectoDTN/assets/65313279/3c4fdbb5-2d4c-4cef-8db4-eba5de6f8d39)
 
 A continuación se pueden observavar los graficos de dispersión de las variables Amount y Time teniendo en cuenta el grupo de transacciones sin fraude y el grupo con fraude.
+
 ![imagen](https://github.com/dtnech/MDLSproyectoDTN/assets/65313279/240d3466-44bd-4b26-8326-e77325db6f6a)
 
 ![imagen](https://github.com/dtnech/MDLSproyectoDTN/assets/65313279/4fbae36e-0090-4363-b2f2-15c9a92c1b78)
