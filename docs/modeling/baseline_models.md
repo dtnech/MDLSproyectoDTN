@@ -60,6 +60,12 @@ Descripción de las métricas utilizadas para evaluar el rendimiento del modelo.
 
 Tabla que muestra los resultados de evaluación del modelo de regresión logística, incluyendo las métricas de evaluación.
 
+| | precision | recall | f1-score | support |
+| --- | --- | --- | --- | --- |
+|accuracy | |  | 1.00 | 7108 |
+|macro avg | 1.00 | 1.00 | 1.00 | 7108 |
+|weighted avg|1.00 | 1.00 | 1.00 | 7108 |
+
 ## Análisis de los resultados
 
 Descripción de los resultados del modelo de regresión logística, incluyendo fortalezas y debilidades del modelo.
